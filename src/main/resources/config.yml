@@ -1,0 +1,4 @@
+enable-32k-detection: true
+enable-shulker-dupe: true
+shulker-dupe-count: 9
+

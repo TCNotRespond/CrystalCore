@@ -1,0 +1,3 @@
+name: CrystalCore
+version: '1.0'
+main: org.crystalcore.CrystalCore
